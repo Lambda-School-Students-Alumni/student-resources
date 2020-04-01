@@ -73,7 +73,15 @@ Locations:
 
 ### Lies about Government Orders to Cease Operations and ISA Legality
 
+Lambda School's ISA is in the legal grey zone (need legal opinion). We recommend screenshotting and/or documenting any and all issues encountered during Lambda School for potential legal action, including:
+
+- Staff negligence, chaotic learning environment, disorganized announcements, unanswered technical questions, student or staff bullying, misleading claims, etc.
+- Instances of changes being poorly implemented last minute (curriculum, policies, etc.)
+- Instances of curriculum marketed on website being scrapped
+
 #### California
+
+Approval to operate: NO (❌)
 
 ##### California Code
 
@@ -81,7 +89,7 @@ According to [CA Educ Code § 94917 (2017)](https://law.justia.com/codes/califor
 
 > "A note, instrument, or other evidence of indebtedness relating to payment for an educational program is not enforceable by an institution unless, at the time of execution of the note, instrument, or other evidence of indebtedness, the institution held an approval to operate."
 
-Lambda School does not have an approval to operate by the California BPPE. Legal opinion is needed on whether the ISA is valid.
+Lambda School does not have an approval to operate by the California BPPE.
 
 ##### California BPPE
 
@@ -99,32 +107,27 @@ On (date?), Austen announces to students in the Announcements channel that Lambd
 
 (Screenshot)
 
-###### Steps for students to file complaints
+###### File a complaint
 
-|              |                    |
-| ------------ | ------------------ |
-| Name         | Lambda School      |
-| Address      | 250 Montgomery St. |
-| Phone number | (415) 262-4219     |
-| City         | San Francisco      |
-| State        | California         |
-| Zip          | 94104              |
-
-Step 1: screenshot and/or document any and all issues encountered during Lambda School, including:
-
-- Staff negligence, chaotic learning environment, disorganized announcements, unanswered technical questions, student or staff bullying, misleading claims, etc.
-- Instances of changes being poorly implemented last minute (curriculum, policies, etc.)
-- Instances of curriculum marketed on website being scrapped
-
-Step 2: submit a [complaint](https://www.bppe.ca.gov/enforcement/complaint.shtml) to the BPPE:
+Submit a [complaint](https://www.bppe.ca.gov/enforcement/complaint.shtml) to the BPPE:
 
 - [Print and mail complaint form](https://www.bppe.ca.gov/forms_pubs/complaint.pdf)
 - [Online complaint form](https://www.dca.ca.gov/webapps/gencomplaint.php)
 
-Step 3: Submit a complaint to the California Attorney General:
+Submit a complaint to the California Attorney General:
 
 - [Print and mail complaint form](https://oag.ca.gov/sites/all/files/agweb/pdfs/contact/business_corpform.pdf)
 - [Online complaint form](https://oag.ca.gov/contact/consumer-complaint-against-business-or-company)
+
+#### Utah
+
+Approval to operate: ❓
+
+#### New York
+
+Approval to operate: ❓
+
+There is a precedent for coding bootcamps getting in trouble for operating without a license. The New York Attorney General [announced a settlement of \$375,000 with Flation School](https://ag.ny.gov/press-release/2017/ag-schneiderman-announces-375000-settlement-flatiron-computer-coding-school) due to operating without a license and making misleading employment claims. Lambda not only has grossly misleading outcome statistics, but also is likely guilty of many more misleading statements and unlicensed behavior throughout the entire school.
 
 ### Lies About the Curriculum
 
@@ -134,15 +137,15 @@ Step 3: Submit a complaint to the California Attorney General:
 
 #### Removal from Slack
 
-- Two UX students reported being removed from the student Slack after simply asking about the withdrawal process, and staff did not answer her questions about ISA cancellation.
+- Two UX students reported being removed from the student Slack after simply asking about the withdrawal process, and staff did not answer their questions about ISA cancellation.
 - One WEB student reported being removed from Salck after simply asked about the withdrawal process and was on the cusp of the full refund period, and did not receive confirmation from staff whether her ISA was void.
 - One WEB student reported being accidentally removed from Slack while being on hiatus due to medical leave, and emails to support@lambdaschool.com were unanswered and they had to tweet at staff.
 - One WEB student reported being removed after politely inquiring Student Success staff of why student policies on flex and other academic policies were being changed mid-cohort for students who already started their cohorts.
 
 #### ISA Triggers & Term Ambiguity
 
-- One WEB student reports that their ISA was triggered after getting a customer support job.
-- One WEB student reports that their ISA was triggered after switching from the full-time to part-time course.
+- One WEB student reports that their ISA was triggered after getting a non-programming customer support job at a tech company.
+- One WEB student reports that their ISA was triggered after switching from the full-time to part-time course and just hitting the \$50K threshold, citing incorrect information on when the trigger would happen that was disseminated in the #isa channel.
 
 ### Instructor Horror Stories
 
