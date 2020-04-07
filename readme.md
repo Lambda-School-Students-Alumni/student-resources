@@ -20,6 +20,7 @@ Learn how to contribute here [contribution guidelines](https://github.com/lambda
 ### Lies about Ongoing Lawsuits And Government Orders to Cease Operations
 
 - [** Master List of Lambda's Legality per US State **](#master-list-states)
+- [State by state regulations of For Profit Postsecondary Schools](#education-regulations)
 - [California](#california)
 - [Utah](#utah)
 - [New York](#new-york)
@@ -72,6 +73,10 @@ Locations:
 ### Lies About Job Placement Rates
 
 ### Lies about Government Orders to Cease Operations and ISA Legality
+
+#### Education Regulations
+
+[State by state for profit postsecondary school regulations](http://www.caichildlaw.org/Misc/Information_statebystate.pdf)
 
 Lambda School's ISA is in the legal grey zone (need legal opinion). We recommend screenshotting and/or documenting any and all issues encountered during Lambda School for potential legal action, including:
 
